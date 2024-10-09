@@ -1,0 +1,29 @@
+# Job Application Tracker
+
+## Description
+This project is a web application for tracking job applications. Built with Spring Boot, it allows users to create, update, delete, and view applications, storing details like company, position, application date, status, and notes. It features a RESTful API for easy integration with frontend interfaces.
+
+## Technologies Used
+- Java
+- Spring Boot
+- JPA/Hibernate
+- MySQL
+- RESTful API
+
+## Features
+- Track job applications with details such as company name, position, application date, status, and notes.
+- Create, update, delete, and view job applications.
+- RESTful endpoints for easy integration with frontend interfaces.
+
+## Getting Started
+
+### Prerequisites
+- Java 11 or higher
+- Maven
+- MySQL Server
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/job_application_tracker.git
+   cd job_application_tracker
